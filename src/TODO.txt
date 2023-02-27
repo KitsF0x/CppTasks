@@ -1,0 +1,8 @@
+[-] Fix includes(move all to header files and remove unnecessary)
+[+] Create edit task
+[+] Create delete task
+[-] Create statistics
+[-] Create IRepository template interface
+[-] Create GUI version
+[-] Add file selection
+[-] Standardize messages in wizards and screens

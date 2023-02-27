@@ -1,0 +1,6 @@
+add_subdirectory(App)
+add_subdirectory(DataBase)
+add_subdirectory(Logic)
+add_subdirectory(Models)
+add_subdirectory(Utils)
+add_subdirectory(UI)
